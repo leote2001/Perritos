@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Perritos/static/css/main.e6c13ad2.css",
+    "main.js": "/Perritos/static/js/main.645ef984.js",
+    "static/js/787.9054b190.chunk.js": "/Perritos/static/js/787.9054b190.chunk.js",
+    "static/media/ladridoPerro.mp3": "/Perritos/static/media/ladridoPerro.b52b0eb61e1fd6743822.mp3",
+    "index.html": "/Perritos/index.html",
+    "main.e6c13ad2.css.map": "/Perritos/static/css/main.e6c13ad2.css.map",
+    "main.645ef984.js.map": "/Perritos/static/js/main.645ef984.js.map",
+    "787.9054b190.chunk.js.map": "/Perritos/static/js/787.9054b190.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.645ef984.js"
+  ]
+}
