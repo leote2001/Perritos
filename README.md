@@ -1,0 +1,2 @@
+App creada con React, la cual contiene imágenes e información sobre perros. Los datos de la aplicación fueron obtenidos de la api thedogapi.com. La aplicación está en inglés.
+Link: https://leote2001.github.io/Perritos
